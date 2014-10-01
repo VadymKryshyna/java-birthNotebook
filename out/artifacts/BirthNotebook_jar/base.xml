@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:people xmlns:ns2="base">
+    <people>
+        <person id="1">
+            <birthDate>15-04-1989</birthDate>
+            <firstName>Ivan</firstName>
+            <secondName>Ivanov</secondName>
+        </person>
+        <person id="2">
+            <birthDate>05-05-1991</birthDate>
+            <firstName>Petr</firstName>
+            <secondName>Petrov</secondName>
+        </person>
+        <person id="3">
+            <birthDate>05-10-1990</birthDate>
+            <firstName>Sidr</firstName>
+            <secondName>Sidorov</secondName>
+        </person>
+        <person id="4">
+            <birthDate>13-08-2013</birthDate>
+            <firstName>Sergey</firstName>
+            <secondName>Brin</secondName>
+        </person>
+    </people>
+</ns2:people>
